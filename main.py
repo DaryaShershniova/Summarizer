@@ -84,7 +84,7 @@ def process_input(text, file):
     return summarize(text)
 
 
-# Создаем интерфейс
+# Сreating an interface
 with gr.Blocks(title="Text Summarization Tool") as app:
     gr.Markdown("## Text Summarization Tool")
     gr.Markdown("Upload a file or enter text for summarization")
