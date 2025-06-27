@@ -1,0 +1,12 @@
+transformers>=4.30.0
+torch>=2.0.0
+gradio>=3.50.0
+python-docx>=0.8.11
+pypdf2>=3.0.0
+pdfminer.six>=20221105
+tqdm>=4.0.0
+sentencepiece>=0.1.99
+numpy>=1.21.0
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
